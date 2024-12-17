@@ -1,5 +1,7 @@
 # MancFurs ICS Calendar
 
+## Archived: Official feed exists now: https://www.mancfurs.org.uk/calendar/feed/
+
 This calendar link is updated from the events list taken from the [MancFurs website](https://www.mancfurs.org.uk/attending/?calendar).
 
 You can subscribe to it by adding the [raw ICS link](calendar.ics?raw=1) to your calendar.
